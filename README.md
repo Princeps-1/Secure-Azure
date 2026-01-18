@@ -7,6 +7,7 @@ The projects I have done listed in order
 
 ### Secure Azure
   My initial project in which I spun up a tenant on Azure and created the following:
+   
     - Resource Group
     - Virtual Machine
     - Storage Account
